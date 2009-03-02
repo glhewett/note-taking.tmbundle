@@ -10,6 +10,8 @@ ${2:Body}
 </string>
 	<key>name</key>
 	<string>New Entry</string>
+	<key>scope</key>
+	<string>text.html.notes</string>
 	<key>tabTrigger</key>
 	<string>entry</string>
 	<key>uuid</key>
