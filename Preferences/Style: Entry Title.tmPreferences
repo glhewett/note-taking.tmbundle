@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Entry Title</string>
+	<key>scope</key>
+	<string>meta.note.title</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>italics</string>
+	</dict>
+	<key>uuid</key>
+	<string>8B03DFF9-53F2-4C9A-AC78-53FFF6333835</string>
+</dict>
+</plist>

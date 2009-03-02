@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Separator</string>
+	<key>scope</key>
+	<string>meta.note.separator</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>bold</string>
+	</dict>
+	<key>uuid</key>
+	<string>0D230B01-14D9-444D-8E74-C24BA8B0AB24</string>
+</dict>
+</plist>

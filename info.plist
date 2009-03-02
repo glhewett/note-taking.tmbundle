@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Note Taking</string>
+	<key>ordering</key>
+	<array>
+		<string>5659F612-1CE3-4A6B-A425-848FC8B5A445</string>
+		<string>497A0E81-4B37-466A-ACFE-493B5E359897</string>
+		<string>18D42D41-6C2D-4954-963D-A6AB52962D12</string>
+		<string>0D230B01-14D9-444D-8E74-C24BA8B0AB24</string>
+		<string>8B03DFF9-53F2-4C9A-AC78-53FFF6333835</string>
+		<string>EA989F29-F947-42EA-BFC7-4DE084EC0B3E</string>
+	</array>
+	<key>uuid</key>
+	<string>742A1796-879B-48F0-B346-4F91006D23FA</string>
+</dict>
+</plist>
