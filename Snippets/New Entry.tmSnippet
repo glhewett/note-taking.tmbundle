@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>`date +%Y-%m-%d` - ${1:Title}
-
+[${3:Tags}]
 ${2:Body}
 ----
 </string>
