@@ -5,18 +5,18 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>ruby "$TM_BUNDLE_SUPPORT/present_notes.rb"</string>
+	<string>ruby "$TM_BUNDLE_SUPPORT/present_notes.rb" $TM_CURRENT_WORD</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>@R</string>
+	<string>@P</string>
 	<key>name</key>
-	<string>Preview</string>
+	<string>Print Notes with Same Tag</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>text.html.notes</string>
+	<string>meta.note.tags</string>
 	<key>uuid</key>
-	<string>497A0E81-4B37-466A-ACFE-493B5E359897</string>
+	<string>B9ED33BB-AD95-4BA8-965F-779D4581CE50</string>
 </dict>
 </plist>

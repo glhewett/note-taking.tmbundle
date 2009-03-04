@@ -4,8 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>`date +%Y-%m-%d` - ${1:Title}
-[${3:Tags}]
-${2:Body}
+[${2:Tags}]
+${3:Body}
 ----
 </string>
 	<key>name</key>
