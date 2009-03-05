@@ -50,7 +50,7 @@ File.open(active_filename) do |handle|
         current_note[:tags] << tags[1].split
         current_note[:tags].flatten!
       else
-        current_note[:body] << line
+        current_note[:body] << line.gsub(/^#/, '###')
       end
     end
     
